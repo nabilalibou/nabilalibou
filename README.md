@@ -9,7 +9,7 @@
 
 #### Tech Stack commonly used:  
 **Analysis**: Numpy, Scipy, Pandas  
-**Machine-Learning**: TensorFlow, Scikit-Learn, PyTorch 
-**Database**: SQL
+**Machine-Learning**: TensorFlow, Scikit-Learn, PyTorch  
+**Database**: SQL  
 **Vizualisation**: Matplotlib, Seaborn, R  
 **CI/CD**: Gitlab CI/CD, Kubernetes 
