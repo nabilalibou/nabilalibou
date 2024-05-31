@@ -1,6 +1,6 @@
 ### Hello👋 I am Nabil
 
-**Data Scientist | Python Enthusiast | Open Source Contributor**
+**Data Scientist | Python Enthusiast**
 
 - I am passionate about applying data science techniques and AI to solve problems in fields like biology and cognitive science. 
 - Currently, I work as a data scientist focusing on EEG data at [Biotrial](https://www.biotrial.com/).
