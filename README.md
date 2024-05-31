@@ -8,8 +8,8 @@
 - Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/nabil-alibou/) to learn more about my background and experience !
 
 #### Tech Stack commonly used:  
-**Analysis/Statistics**: Numpy, Scipy, Pandas, R
+**Analysis/Statistics**: Numpy, Scipy, Pandas, R  
 **Machine-Learning**: TensorFlow, Scikit-Learn, PyTorch  
 **Database**: SQL  
-**Vizualisation**: Matplotlib, Seaborn, R
+**Vizualisation**: Matplotlib, Seaborn, R  
 **CI/CD**: Gitlab CI/CD, Kubernetes 
