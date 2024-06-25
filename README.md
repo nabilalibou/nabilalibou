@@ -2,12 +2,12 @@
 
 **Data Scientist | Python Enthusiast**
 
-- I am passionate about applying data science techniques and AI to solve problems in fields like biology and cognitive science. 
+- I am passionate about implementing ETL pipelines and machine learning techniques to solve problems in fields like biology, cognitive science. 
 - Currently, I work as a data scientist focusing on EEG data at [Biotrial](https://www.biotrial.com/).
-- In my free time, I love pursuing personal various data-driven projects (check out my pinned repositories). I have also recently begun contributing to open-source projects like [MNE-Python](https://github.com/mne-tools/mne-python) and [PYPREP](https://github.com/sappelhoff/pyprep)).
+- In my free time, I love pursuing personal various data-driven projects and I have also recently begun contributing to open-source projects like [MNE-Python](https://github.com/mne-tools/mne-python) and [PYPREP](https://github.com/sappelhoff/pyprep)).
 - Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/nabil-alibou/) to learn more about my background and experience !
 
-#### Tech Stack commonly used:  
+#### Tech Stack:  
 **Analysis/Statistics**: Numpy, Scipy, Pandas, R  
 **Machine-Learning**: Keras/TensorFlow, Scikit-Learn, PyTorch  
 **Database**: SQL  
