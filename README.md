@@ -4,7 +4,7 @@
 
 - I am passionate about implementing data pipelines and machine learning techniques to solve problems in fields like healthcare, cognitive sciences and computational biology. 
 - Currently, I work as a Bioinformatics & AI Engineer focusing on NGS Pipeline Development at [Alcediag](https://www.alcediag-alcen.com/fr/).
-- In my free time, I love pursuing personal various data-driven projects and I have also recently begun contributing to open-source projects like [MNE-Python](https://github.com/mne-tools/mne-python) and [PYPREP](https://github.com/sappelhoff/pyprep)).
+- In my free time, I love pursuing personal various data-driven projects and I have also recently begun contributing to open-source projects.
 - Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/nabil-alibou/) to learn more about my background and experience !
 
 #### Tech Stack:  
